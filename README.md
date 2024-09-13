@@ -53,7 +53,7 @@ int main(){
 
 
 ## Code: 15B
-```
+```cpp
 // NAME - Kanwaljeet singh
 // PRN - 23070123124
 // EXPERIMENT - 15(B)
@@ -85,7 +85,7 @@ int main(){
 
 
 ## Code: 15C
-```
+```cpp
 // NAME - Kanwaljeet singh
 // PRN - 23070123124
 // EXPERIMENT - 15(C)
@@ -116,7 +116,7 @@ int main()
 
 
 ## Code: 15D
-```
+```cpp
 // NAME - Kanwaljeet singh
 // PRN - 23070123124
 // EXPERIMENT - 14(D)
