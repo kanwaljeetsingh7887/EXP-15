@@ -112,7 +112,8 @@ int main()
 }       
 ```
 ## Output:
-![image](https://github.com/user-attachments/assets/530e6991-ca5f-4da2-ae01-a37a21403661)
+![image](https://github.com/user-attachments/assets/f4560189-5057-4d13-984f-a286c27dfbbd)
+
 
 
 ## Code: 15D
@@ -144,7 +145,8 @@ int main()
 }           
 ```                  
 ## Output:
-![image](https://github.com/user-attachments/assets/aec156e2-2790-430b-83ad-0846048d6972)
+![image](https://github.com/user-attachments/assets/31f30dd0-ee45-4c5d-8bcd-118cd2145e45)
+
 
 
 
