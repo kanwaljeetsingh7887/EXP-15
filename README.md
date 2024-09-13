@@ -80,7 +80,8 @@ int main(){
 }
 ```
 ## Output:
-![image](https://github.com/user-attachments/assets/b37e7768-269e-4fa5-8176-61f2c1750f4e)
+![image](https://github.com/user-attachments/assets/7ca1f640-6ed1-4582-bdaf-af329dd0d4de)
+
 
 
 
