@@ -45,7 +45,8 @@ int main(){
 }
 ```
 ## Output:
-![image](https://github.com/user-attachments/assets/645b2de2-f920-4da7-b8c9-4fd8603ae520)
+![image](https://github.com/user-attachments/assets/4722642c-c087-4388-9b39-c5ba3d50f5de)
+
 
 
 
